@@ -14,7 +14,7 @@ public class mycode {
         System.out.println("Piyawat sutthipanya");
         System.out.println("s360411760006");
         System.out.println("MIT421");
-        System.out.println("RMUTSV");
+
 
     }//main
 }
