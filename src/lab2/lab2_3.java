@@ -17,13 +17,6 @@ public class lab2_3 {
 
 
 
-
-
-
-
-
-
-
     }//main
 
 
