@@ -8,9 +8,7 @@ import java.util.Scanner;
 
 public class ex2 {
 
-    public static int summation (int x,int y){
-        return  x+y;
-    }
+    public static int summation (int x,int y){ return  x+y; }
     public static int substraction (int x,int y){
         return  x-y;
     }
